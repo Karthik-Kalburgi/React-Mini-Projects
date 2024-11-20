@@ -9,7 +9,7 @@ function App() {
 
   return (
   <>
-  <h1>Counter</h1>
+  <h1 className='text-4xl text-center justify-center '>Counter</h1>
   <Counter />
   </>
   )
